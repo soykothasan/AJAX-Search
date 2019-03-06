@@ -22,7 +22,7 @@ Click *Save Settings* . The AJAX search feature is now ready to use!
 
 ### You can add the parameters above as URL parameters after the file name *search.min.js* :
 
-``<script src="search.min.js?live=true&amp;chunk=100&amp;text[loading]=Memuat%E2%80%A6"></script>``
+``html <script src="search.min.js?live=true&amp;chunk=100&amp;text[loading]=Memuat%E2%80%A6"></script>``
 
 - - -
  **Note:** This document is Written by det.web ; you
